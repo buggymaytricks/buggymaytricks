@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav More aka buGGy/@buggymaytricks
-- 👀 I’m interested in Hacking as a whole but currently working on WebApp Testing Skills
-- 🌱 I’m currently learning Web Application Pentesting and Python
+- 👀 I’m interested in Hacking as a whole.
+- 🌱 I’m currently learning Penetration Testing and Python
 - 📫 Reach me at pranav9more9@gmail.com
 
 <!---
