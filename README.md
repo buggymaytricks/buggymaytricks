@@ -1,52 +1,90 @@
-<h1 align="center"><code>buGGy</code></h1>
+<div align="center">
+  <!-- Header Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f0f&height=250&section=header&text=buGGy's%20Cyber%20HQ&fontSize=45&fontColor=00ffcc" alt="buGGy Header"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&center=true&width=500&lines=Red+Teamer+%F0%9F%94%AA+;Cybersecurity+Researcher+%F0%9F%95%B5%EF%B8%8F;CTF+Player+%F0%9F%92%BB;OSINT+Enthusiast+%F0%9F%97%AE%EF%B8%8F;Obsidian+Poweruser+%F0%9F%92%BE;Full-stack+Exploitation+in+progress..." alt="Typing SVG" />
+  <!-- Typing SVG Animated Intro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Recursive&weight=600&size=22&pause=700&center=true&width=600&lines=Red+Teamer+%7C+Offensive+Security+%7C+CTF+Veteran+%7C+OPSEC+Architect" alt="Intro Typing"/>
+</p>
+
+<p align="center">
+  <!-- Dynamic Badges -->
+  <img src="https://img.shields.io/badge/DARK_MODE-ENABLED-555?style=for-the-badge&logo=hackthebox" alt="Dark Mode" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-green?style=for-the-badge&logo=ubuntu" alt="OS" />
+  <img src="https://img.shields.io/badge/STACK-C%2B%2B_Python_Bash-blue?style=for-the-badge&logo=python&logoColor=white" alt="Stack"/>
 </p>
 
 ---
 
-### 🧠 Who is `buGGy`?
+### 🧠 About buGGy
+
+<div align="left">
+<details>
+<summary>Expand to read bio</summary>
 
 ```txt
-⛓️  Building exploits, not excuses.  
-🔍  Chasing misconfigs and missed opportunities.  
-🧙  Making tools, writing blogs, breaking things (legally).  
+Name: buGGy (@buggymaytricks)
+Role: Red Team Specialist & CTF Veteran
+Philosophy: "Train in silence. Hack with precision."
+Specialties:
+  - Web Exploitation (SQLi, XSS, CSRF, IDOR, XXE, SSRF, LFI)
+  - Infrastructure Attack (Linux, ESP32, Custom Payloads)
+  - OPSEC & Recon Automation
+Tools: BurpSuite, Nmap, FFUF, Hydra, Metasploit, Hashcat, Wireshark
+Certifications: CPTS (in progress), eJPT, TCM-PEH (completed)
+Lifestyle: Desktop-first, Dark-theme addict, Obsidian PKM poweruser
 ```
-
-| **Field**           | **Details**                                                                                                                                 |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| 🎯 **Specialty**     | Web Exploitation, Red Team Labs, CTFs, Recon/Automation                                                                                     |
-| 💡 **Stack**         | C, Python, Bash, JavaScript (low level tooling + PoC dev)                                                                                   |
-| 🧪 **Tools & Toys**  | Nmap, Burp, FFUF, Hydra, Metasploit, Obsidian, ESP32, Hashcat, Wireshark, Custom scripts                                                    |
-| 🏗️ **Building**      | GitHub toolkits, blog posts, lab walkthroughs, and self-hosted experiments                                                                 |
-| 🔗 **Connect**       | [GitHub](https://github.com/buggymaytricks) • [X (Twitter)](https://x.com/buggymaytricks) • [LinkedIn](https://linkedin.com/in/buggymaytricks) |
+</details>
+</div>
 
 ---
 
-### 🔥 Currently Working On
+### 🚀 Live Stats & Animations
 
-- 📜 CPTS or eJPT — full cert grind mode
-- 🧠 Nightly hacking sprints & documentation
-- 🛠️ Making GitHub repos **less boring & more OPSEC-ready**
-- 🧹 Next blog drop at: [`buggymaytricks.me`](https://buggymaytricks.me)
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=buggymaytricks&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggymaytricks&layout=donut&theme=radical&hide_border=true" height="150" />
+</div>
+
+<div align="center">
+  <!-- Contribution Calendar -->
+  ![snake gif](https://raw.githubusercontent.com/buggymaytricks/buggymaytricks/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=buggymaytricks&theme=black-ice&hide_border=true" alt="Streak Stats"/>
+</div>
 
 ---
 
 ### 🧰 Toolbox Showcase
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,js,github,git,vscode,obsidian" />
-</p>
+<div align="center">
+  ![Icons](https://skillicons.dev/icons?i=linux,ubuntu,python,cpp,bash,git,github,burpsuite,ffuf,urlscan,obsidian&theme=dark)
+</div>
 
 ---
 
-### 📊 GitHub Stats (Live Reactive)
+### 🔥 Now Playing & Live Terminal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buggymaytricks&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggymaytricks&layout=compact&theme=radical" height="160" />
-</p>
+<div align="center">
+  <!-- NowPlaying & Terminal Emulation -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buggymaytricks&theme=react-dark&custom_title=My%20Coding%20Rhythm&hide_border=true" alt="Activity Graph"/>
+  <br/>
+  <img src="https://github-readme-terminal.vercel.app/?username=buggymaytricks&theme=cyberpunk" width="80%" alt="Terminal"/>
+</div>
+
+---
+
+### 📝 Blog Highlights
+
+<div align="center">
+  <!-- Dynamic Blog List -->
+  <img src="https://github-readme-blog-list.vercel.app?username=buggymaytricks&repo=blog&theme=dark" alt="Blog Posts"/>
+</div>
 
 ---
 
@@ -54,47 +92,33 @@
 
 ```yaml
 Pentest_Certs:
-  - CPTS (in progress)
-  - eJPT (Plan B)
-  - PEH by TCM (Done)
-
-FieldOps:
-  - HTB + PortSwigger Labs
-  - OSINT Challenges
-  - Custom blog tooling
+  - CPTS: in-progress
+  - eJPT: plan-B
+  - TCM-PEH: completed
 
 Infra:
-  - GitHub Pages
-  - Self-hosted ESP32 SD capture
-  - Obsidian PKM for hacking
+  - Self-hosted Kali & Ubuntu VMs
+  - ESP32 payload dev
+
+Project Highlights:
+  - Custom Recon Tools
+  - Automated Phishing Suite
+  - OSINT Chatbot
 ```
 
 ---
 
-### 💣 Latest Drops
+### 📬 Connect with me
 
-<!-- BLOG-POST-LIST:START -->
-- [🔪 Bypassing Filters with Unicode WTF](https://buggymaytricks.me/blog/unicode-bypass)
-- [🔓 Bruteforcing with Style – Hydra Tips](https://buggymaytricks.me/blog/hydra-tricks)
-- [🧠 Mental Models of Recon](https://buggymaytricks.me/blog/recon-theory)
-<!-- BLOG-POST-LIST:END -->
-
-*(Auto updated via GitHub Action)*
-
----
-
-### 🛡️ Philosophy
-
-> “Train like you're in the field. Hack like you're invisible.”  
-> – buGGy
+<p align="center">
+  <a href="https://github.com/buggymaytricks"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/buggymaytricks"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linkedin.com/in/buggymaytricks"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/buggymaytricks/buggymaytricks/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f0f&height=120&section=footer&text=Stay+Sharp+%7C+Hack+Quietly&fontSize=24&fontColor=00ffcc"/>
 </p>
 
-<!---
-buGGymaytricks/buGGymaytricks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
